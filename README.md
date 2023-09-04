@@ -1,11 +1,7 @@
-### Hi there 👋 I'm a growing data scientist.
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eug2n2&layout=compact"><br><br>
+### Hi there 👋 welcome my github!
+I'm a growing data scientist.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-
-- 📫 How to reach me: contact on oyj5775@naver.com
 
 👩🏻‍💻 Skills
 <div align=center> 
