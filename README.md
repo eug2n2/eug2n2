@@ -4,6 +4,7 @@
 I'm a growing data scientist.
 <br>
 🌟 숙명여자대학교 수학과, 빅데이터 분석학 전공
+<br>
 🌱 대한상공회의소 We-Meet AWS팀 1기 
 
 👩🏻‍💻 Skills 
@@ -13,6 +14,7 @@ I'm a growing data scientist.
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
 <br>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white">
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
