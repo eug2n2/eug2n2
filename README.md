@@ -12,4 +12,4 @@ I'm a growing data scientist.
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eug2n2&layout=compact"><br><br>
-![eugene's GitHub stats](https://github-readme-stats.vercel.app/api?username=eug2n2&show_icons=true&theme=dark)
+![eugene's GitHub stats](https://github-readme-stats.vercel.app/api?username=eug2n2)](https://github.com/eug2n2/github-readme-stats)
