@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&text=eugene's github)
+<img src=https://capsule-render.vercel.app/api?type=Waving&text=eugene's github>
 
 ### Hi there 👋 welcome my github!
 I'm a growing data scientist.
