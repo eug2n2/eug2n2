@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eug2n2&layout=compact"><br><br>
+![header](https://capsule-render.vercel.app/api?type=Waving&text=eugene's github)
 ### Hi there 👋 welcome my github!
 I'm a growing data scientist.
 
