@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
 
-![eug2n2's github stats](https://github-readme-stats.vercel.app/api?username=eug2n2&show_icons=true)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eug2n2&layout=compact"><br><br>
