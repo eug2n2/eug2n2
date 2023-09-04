@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=eugene's%20github>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=eug2n2%20github>
 
 ### Hi there 👋 welcome my github!
 I'm a growing data scientist.
