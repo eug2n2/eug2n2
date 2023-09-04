@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=eugene's%20github&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=eugene's%20github&fontSize=90)
 
 ### Hi there 👋 welcome my github!
 I'm a growing data scientist.
