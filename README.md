@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ffb1be&height=200&section=header&text=eugene's%20github&fontSize=90&fontColor=ffffff)
-
-### Hi there 👋 welcome my github!
+<div align=center> 
+Hi there 👋 welcome my github! <br>
 I'm a growing data scientist.
 <br>
 🌟 숙명여자대학교 수학과, 빅데이터 분석학 전공
