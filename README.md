@@ -6,7 +6,7 @@ I'm a growing data scientist.
 🌟 수학과, 빅데이터 분석학 전공
 <br>
 🌱 대한상공회의소 We-Meet AWS팀 1기 
-
+💚 Ssafy 11기 
 👩🏻‍💻 Skills 
 <div align=center> 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
