@@ -20,6 +20,7 @@ I'm a growing data scientist.
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/github-F7DF1E?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/github-6DB33F?style=for-the-badge&logo=github&logoColor=white">
+  <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eug2n2&layout=compact"><br><br>
   
 [![Solved.ac
