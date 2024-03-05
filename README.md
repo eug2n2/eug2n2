@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ffb1be&height=200&section=header&text=eugene's%20github&fontSize=90&fontColor=ffffff)
 <div align=center> 
 Hi there 👋 welcome my github! <br>
-I'm a growing backend developer using data.
-Also I worked on a lot of data projects
+I'm a growing backend developer using data.<br>
+Also I worked on a lot of data projects.
 <br>
 🌟 수학과, 빅데이터 분석학 전공
 <br>
