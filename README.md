@@ -10,6 +10,8 @@ I'm a growing backend and data analyst.<br>
 <br>
 💚 Ssafy 11기 
 <br>
+❤️신한금융그룹 빅데이터 해커톤 신한카드 데이터 분석부문 준우승
+<br>
 👩🏻‍💻 Skills 
 <div align=center> 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
