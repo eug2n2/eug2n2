@@ -25,7 +25,8 @@ I'm a growing backend and data analyst.<br>
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-
+<br>
+<img src="https://img.shields.io/badge/GoogleAnalytics-E37400?style=for-the-badge&logo=GoogleAnalytics&logoColor=white">  
   <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eug2n2&layout=compact"><br><br>
   
