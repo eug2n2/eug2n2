@@ -38,6 +38,6 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbwls5775)](https://s
 
 ## GitHub Stats
 <div align="center">
-![Eug2n2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eug2n2&show_icons=true&theme=transparent)
+![Eug2n2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eug2n2&theme=ocean_dark&show_icons=true)&nbsp;&nbsp;&nbsp;&nbsp; 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eug2n2&layout=compact&theme=ocean_dark&langs_count=6&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
