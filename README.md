@@ -37,4 +37,4 @@ I'm a growing backend developer and data analyst.<br>
 Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbwls5775)](https://solved.ac/dbwls5775)
 
 <br>
-![eug2n2's GitHub stats](https://github-readme-stats.vercel.app/api?username=eug2n2&show_icons=true&theme=transparent)
+![Eug2n2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eug2n2&show_icons=true&theme=transparent)
