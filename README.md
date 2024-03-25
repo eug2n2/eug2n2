@@ -13,7 +13,8 @@ I'm a growing backend developer and data analyst.<br>
 ❤️신한금융그룹 빅데이터 해커톤 신한카드 데이터 분석부문 준우승
 <br>
 <br>
-👩🏻‍💻 Skills 
+
+<h3 align="center">💡 My Most Used Languages👩🏻‍💻  💡</h3>
 <div align=center> 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
@@ -36,15 +37,8 @@ I'm a growing backend developer and data analyst.<br>
 [![Solved.ac
 Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbwls5775)](https://solved.ac/dbwls5775)
 
-<h3 align="center">💡 My Most Used Languages 💡</h3>
-<p align="center">
-  <a href="https://github.com/${Eug2n2}">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=${Eug2n2}&layout=compact&show_icons=${아이콘 보여줄지}&show_owner=${소유자 표기}&hide_title=${타이틀 가리기}&theme=${테마}&hide=${가리고 싶은 언어}" />
-  </a>
-</p>
+
+
 <h3 align="center">💡 My Git Stats 💡</h3>
-<p align="center">
-  <a href="https://github.com/${Eug2n2}">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=${Eug2n2}&hide=${가릴항목}&hide_title=${타이틀숨김}&show_icons=${깃아이콘표시}&include_all_commits=${올해말고 전체년도 커밋표기}&theme=${테마}" />
-  </a>
-</p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eug2n2&show_icons=true&theme=radical)
