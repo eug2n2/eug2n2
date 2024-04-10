@@ -14,7 +14,7 @@ I'm a growing backend developer and data analyst.<br>
 <br>
 <br>
 
-<h3 align="center">💡 My Most Used Languages👩🏻‍💻  💡</h3>
+<h3 align="center">💡 Used Languages👩🏻‍💻  💡</h3>
 <div align=center> 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
@@ -31,7 +31,9 @@ I'm a growing backend developer and data analyst.<br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/Google Analytics-E37400?style=for-the-badge&logo=Google Analytics&logoColor=white">  
-  <br>
+<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=VMware&logoColor=white">  
+
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eug2n2&layout=compact"><br><br>
   
 [![Solved.ac
