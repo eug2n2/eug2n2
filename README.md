@@ -30,7 +30,7 @@ I'm a growing backend developer and data analyst.<br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/Google Analytics-E37400?style=for-the-badge&logo=Google Analytics&logoColor=white">  
-<img src="https://img.shields.io/badge/vuedotjs-4FC08D?style=for-the-badge&logo=vue&logoColor=white">  	
+<img src="https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">  	
 <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=VMware&logoColor=white">  
 <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">  
 <img src="https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=white">
