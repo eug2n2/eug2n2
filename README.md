@@ -12,6 +12,7 @@ Hi there 👋 welcome my github! <br>
 ❤️신한금융그룹 빅데이터 해커톤 신한카드 데이터 분석부문 준우승
 <br>
 <br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feug2n2%2Fhit-counter&count_bg=%23A4E3FC&title_bg=%23F2D3F4&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <h3 align="center">💡 Used Languages👩🏻‍💻  💡</h3>
 <div align=center> 
