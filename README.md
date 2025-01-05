@@ -65,5 +65,5 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbwls5775)](https://s
 <!--
 <h3 align="center">💡 My Git Stats 💡</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eug2n2&show_icons=true&theme=radical)
+![Eug2n2's GitHub stats](https://github-readme-stats.vercel.app/api?username=eug2n2&show_icons=true&theme=radical)
 -->
